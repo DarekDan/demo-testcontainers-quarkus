@@ -1,0 +1,5 @@
+services:
+  stackoverflow-2010-db:
+    image: "stackoverflow-2010-db"
+    ports:
+      - "1433:1433"
